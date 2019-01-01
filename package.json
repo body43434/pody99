@@ -1,0 +1,37 @@
+{
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "eris": "^0.9.0",
+    "file-system": "^2.2.2",
+    "dateformat": "^3.0.3",
+    "math-expression-evaluator": "^1.2.17",
+    "express": "^4.16.4",
+    "gif-search": "^2.0.1",
+    "common-tags": "^1.8.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "figlet": "^1.2.1",
+    "fs": "0.0.1-security",
+    "get-youtube-id": "^1.0.0",
+    "node-opus": "^0.3.0",
+    "http2": "^3.3.7",
+    "jimp": "^0.5.4",
+    "moment": "^2.22.2",
+    "ms": "^2.1.1",
+    "opusscript": "0.0.6",
+    "queue": "^4.5.0",
+    "request": "^2.81.0",
+    "simple-youtube-api": "^5.0.2",
+    "sqlite": "^3.0.0",
+    "youtube-info": "^1.2.1",
+    "youtube-playlist-info": "^1.1.2",
+    "ytdl-core": "^0.26.1"
+  }
+}
